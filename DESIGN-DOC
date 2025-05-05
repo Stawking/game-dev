@@ -1,0 +1,25 @@
+Tech:
+Godot Engine -.Net
+C#/C++
+
+Mechanics:
+Inventory Management. like backpack hero
+Companion Fighting. switch between you and an animal friend
+
+PRIMAL SOURCES
+
+  CELESTE
+
+    SKY
+SUN     MOON
+   EARTH
+
+Earth - WILL  hp   eating, new friend, new achievement
+Sky - FREEDOM stam   
+Sun - VIGOR  atk   winning
+Moon - WISDOM  atk spd   reading
+Celeste - COSMIC ORDER (spatial, gravity)   loss
+
+Earth + Sun = flora
+Earth + Moon = blood
+Sky + Sun = 
