@@ -4,7 +4,7 @@ C#/C++
 
 Mechanics:
 Inventory Management. like backpack hero
-Companion Fighting. switch between you and an animal friend
+Companion Fighting. switch between you and an animal friend. companions can be obtained by bringing a mob to low hp
 
 PRIMAL SOURCES
 
@@ -14,12 +14,29 @@ PRIMAL SOURCES
 SUN     MOON
    EARTH
 
-Earth - WILL  hp   eating, new friend, new achievement
-Sky - FREEDOM stam   
-Sun - VIGOR  atk   winning
-Moon - WISDOM  atk spd   reading
-Celeste - COSMIC ORDER (spatial, gravity)   loss
+Earth -   hp   tasting food, new friend (You feel determined)
+Sky - sta  smelling the roses, touching grass (You feel free)
+Sun -   atk   seeing victory, new achievement (You feel triumphant)
+Moon -  cd  listening to others wisdom (You feel wise)...er maybe not
+Ether - COSMIC ORDER (spatial, gravity)   loss of self (You feel numb)
 
-Earth + Sun = flora
-Earth + Moon = blood
-Sky + Sun = 
+
+NARRATOR: You wake up in a strange place...
+
+[Fade from black]
+(There is a single rusty blade with a note that says "It's dangerous out there... take this." and a door to the next room)
+
+(The next room contains mobs with names like "Lucy", "Max", etc. that approach you but do not attack first)
+
+(The next room contains an npc)
+NPC: Oh! I was starting to think you wouldnt be waking up. How are you feeling? You must be hungry. Theres some food on the table over there if you would like.
+[dialogue ends until food is aquired]
+NPC: Saving it for later? thats okay. just go into your inventory whenever you feel like. You know my good friend Lucy made that You  met her before. lets go say hi
+NPC: Wow! you dug right in. Lucy will be so glad to hear you liked it. lets go tell her
+
+NPC: (optional)...oh what? you KILLED her!?!? nooooooo!!! 
+[she breaks down in tears and cannot be interacted with. must move on to next room. If player returns she is replaced by an unwinnable Vengeful NPC]
+
+
+
+"You dont know what Primal Energy is? Its all around us, in the air we breathe and ground beneath our feet. In the light of the day and in the quiet of the night. and yes, even in you. but enough about that for now"
